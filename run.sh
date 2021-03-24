@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 if ! [[ -f "db/colors.db" ]];then
 cd ./db
-/bin/sh ./gen
+/bin/bash ./gen.sh
 cd ./..
 fi

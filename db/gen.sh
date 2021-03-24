@@ -1,3 +1,2 @@
-#!/bin/sh
-python3 ./main.py
-#python3 -u ./db/main.py
+#!/bin/bash
+python3 -u ./main.py
