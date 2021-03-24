@@ -1,0 +1,24 @@
+{
+  "name": "wack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justletterh/wack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justletterh/wack/issues"
+  },
+  "homepage": "https://github.com/justletterh/wack#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}

@@ -4,3 +4,4 @@ cd ./db
 /bin/bash ./gen.sh
 cd ./..
 fi
+npm start
