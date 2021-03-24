@@ -4,4 +4,5 @@ cd ./db
 /bin/bash ./gen.sh
 cd ./..
 fi
+npm i&>/dev/null
 npm start
