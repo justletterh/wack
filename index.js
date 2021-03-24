@@ -1,7 +1,7 @@
 const { app,BrowserWindow }=require('electron');
 
 function createWindow(){
-    const win=new BrowserWindow({width:800,height:600});
+    const win=new BrowserWindow({width:800,height:600,icon:"./icon.jpg"});
     win.maximize();
     win.loadFile('index.html');
 }
