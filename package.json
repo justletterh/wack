@@ -18,7 +18,7 @@
     "url": "https://github.com/justletterh/wack/issues"
   },
   "homepage": "https://github.com/justletterh/wack#readme",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^12.0.2"
   }
 }
